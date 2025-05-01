@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Connect with me
+##### Connect with Me
+![https://www.instagram.com/jhoni.dian](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 

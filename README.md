@@ -1,5 +1,6 @@
 ## Hello World, I'm Jhoni Hidayat 👋
 
+![jhoniHidayat](img/github-header-image.png)
 <!--
 **jhoniHidayat/jhoniHidayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

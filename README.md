@@ -1,6 +1,7 @@
 ## Hello World, I'm Jhoni Hidayat 👋
 
-![jhoniHidayat](img/github-header-image.png)
+![jhoniHidayat](img/github-header-image.png)![github-header-image](https://github.com/user-attachments/assets/665756e0-d158-4b14-8564-f02b7c742bec)
+
 <!--
 **jhoniHidayat/jhoniHidayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

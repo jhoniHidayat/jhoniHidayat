@@ -1,5 +1,3 @@
-## Hello World, I'm Jhoni Hidayat 👋
-
 ![github-header-image](https://github.com/user-attachments/assets/665756e0-d158-4b14-8564-f02b7c742bec)
 
 <!--

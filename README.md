@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/user-attachments/assets/665756e0-d158-4b14-8564-f02b7c742bec)
+![github-header-image(1)](https://github.com/user-attachments/assets/a84fedac-7d25-4206-a8b6-7a53ebf62086)
+
 
 <!--
 **jhoniHidayat/jhoniHidayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
